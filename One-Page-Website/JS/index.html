@@ -1,63 +1,14 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My One Page Website</title>
-    <style>
-        body {
-            font-family: Arial;
-            margin: 0;
-            padding: 0;
-        }
-        header {
-            background-color: #4CAF50;
-            color: white;
-            text-align: center;
-            padding: 30px;
-        }
-        section {
-            padding: 20px;
-        }
-        footer {
-            background-color: #333;
-            color: white;
-            text-align: center;
-            padding: 10px;
-        }
-    </style>
-</head>
-
-<body>
-    <header>
-        <h1>Welcome to My Website</h1>
-    </header>
-
-    <section>
-        <h2>About Me</h2>
-        <p>This is my first HTML website.</p>
-    </section>
-
-    <section>
-        <h2>Contact</h2>
-        <p>Email: example@gmail.com</p>
-    </section>
-
-    <footer>
-        <p>© 2025 My Website</p>
-
-    </footer>
-
-<section>
-    <h2>Gallery</h2>
-    <img src="images/photo1.jpg" class="lightbox-image" width="200">
-    <img src="images/photo2.jpg" class="lightbox-image" width="200">
-    <img src="images/photo3.jpg" class="lightbox-image" width="200">
-</section>
+e1a86f2515574d7e7cd2fce980ee874d0e4fdea5c94f6210cb1d2ed6aad194c1
+curl -i -H "Accept:application/json" -H "Content-Type:application/json" -H "Authorization: Bearer e1a86f2515574d7e7cd2fce980ee874d0e4fdea5c94f6210cb1d2ed6aad194c1" -XGET "https://gorest.co.in/public/v2/users"
 
 
-<script src="JS/one_page_website.js"></script>
+ post-.curl -i -H "Accept:application/json" -H "Content-Type:application/json" -H "Authorization: Bearer e1a86f2515574d7e7cd2fce980ee874d0e4fdea5c94f6210cb1d2ed6aad194c1" -XPOST "https://gorest.co.in/public/v2/users" -d '{"name":"Tenali Ramakrishna", "gender":"male", "email":"tenali.ramakrishna@15ce.com", "status":"active"}'
+It is a request body.
 
-</body>
-</html>
 
+
+Update curl -i -H "Accept:application/json" -H "Content-Type:application/json" -H "Authorization: Bearer e1a86f2515574d7e7cd2fce980ee874d0e4fdea5c94f6210cb1d2ed6aad194c1" -XPATCH "https://gorest.co.in/public/v2/users/7764963" -d '{"name":"Allasani Peddana", "email":"allasani.peddana@15ce.com", "status":"active"}'
+
+Delete curl -i -H "Accept:application/json" -H "Content-Type:application/json" -H "Authorization: Bearer e1a86f2515574d7e7cd2fce980ee874d0e4fdea5c94f6210cb1d2ed6aad194c1" -XDELETE "https://gorest.co.in/public/v2/users/7764963"
 
 
