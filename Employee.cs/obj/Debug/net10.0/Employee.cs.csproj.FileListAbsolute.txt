@@ -1,0 +1,4 @@
+C:\Users\sharm\source\repos\Employee.cs\Employee.cs\obj\Debug\net10.0\Employee.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharm\source\repos\Employee.cs\Employee.cs\obj\Debug\net10.0\Employee.cs.AssemblyInfoInputs.cache
+C:\Users\sharm\source\repos\Employee.cs\Employee.cs\obj\Debug\net10.0\Employee.cs.AssemblyInfo.cs
+C:\Users\sharm\source\repos\Employee.cs\Employee.cs\obj\Debug\net10.0\Employee.cs.csproj.CoreCompileInputs.cache

@@ -1,0 +1,65 @@
+﻿using System;
+
+namespace EmployeeApp
+{
+// Create the Employee class
+public class Employee
+{
+// Property to store employee Id
+public int Id { get; set; }
+
+// Property to store employee first name
+public string FirstName { get; set; }
+
+// Property to store employee last name
+public string LastName { get; set; }
+
+// Overload the == operator
+// This checks if two Employee objects have the same Id
+public static bool operator ==(Employee emp1, Employee emp2)
+{
+// If both objects are null, return true
+if (ReferenceEquals(emp1, emp2))
+{
+return true;
+}
+
+// If one object is null, return false
+if (emp1 is null || emp2 is null)
+{
+return false;
+}
+
+// Compare the Id properties
+return emp1.Id == emp2.Id;
+}
+
+// Overload the != operator
+// This is required when overloading ==
+public static bool operator !=(Employee emp1, Employee emp2)
+{
+// Return the opposite result of ==
+return !(emp1 == emp2);
+}
+
+// Override Equals method
+public override bool Equals(object obj)
+{
+// Check if object is Employee type
+if (obj is Employee employee)
+{
+// Compare Id values
+return this.Id == employee.Id;
+}
+
+return false;
+}
+
+// Override GetHashCode method
+public override int GetHashCode()
+{
+// Return hash code based on Id
+return Id.GetHashCode();
+}
+}
+}
