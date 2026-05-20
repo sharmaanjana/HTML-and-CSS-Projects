@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sharm\\source\\repos\\EFCodeFirstStudent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF8EAF0-8352-4B52-9062-42E3F7B208B6}|EFCodeFirstStudent\\EFCodeFirstStudent.csproj|c:\\users\\sharm\\source\\repos\\efcodefirststudent\\efcodefirststudent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF8EAF0-8352-4B52-9062-42E3F7B208B6}|EFCodeFirstStudent\\EFCodeFirstStudent.csproj|solutionrelative:efcodefirststudent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF8EAF0-8352-4B52-9062-42E3F7B208B6}|EFCodeFirstStudent\\EFCodeFirstStudent.csproj|c:\\users\\sharm\\source\\repos\\efcodefirststudent\\efcodefirststudent\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF8EAF0-8352-4B52-9062-42E3F7B208B6}|EFCodeFirstStudent\\EFCodeFirstStudent.csproj|solutionrelative:efcodefirststudent\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF8EAF0-8352-4B52-9062-42E3F7B208B6}|EFCodeFirstStudent\\EFCodeFirstStudent.csproj|c:\\users\\sharm\\source\\repos\\efcodefirststudent\\efcodefirststudent\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF8EAF0-8352-4B52-9062-42E3F7B208B6}|EFCodeFirstStudent\\EFCodeFirstStudent.csproj|solutionrelative:efcodefirststudent\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\source\\repos\\EFCodeFirstStudent\\EFCodeFirstStudent\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "EFCodeFirstStudent\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\sharm\\source\\repos\\EFCodeFirstStudent\\EFCodeFirstStudent\\SchoolContext.cs",
+              "RelativeToolTip": "EFCodeFirstStudent\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:32:07.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\source\\repos\\EFCodeFirstStudent\\EFCodeFirstStudent\\Student.cs",
+              "RelativeDocumentMoniker": "EFCodeFirstStudent\\Student.cs",
+              "ToolTip": "C:\\Users\\sharm\\source\\repos\\EFCodeFirstStudent\\EFCodeFirstStudent\\Student.cs",
+              "RelativeToolTip": "EFCodeFirstStudent\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:30:25.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\source\\repos\\EFCodeFirstStudent\\EFCodeFirstStudent\\Program.cs",
+              "RelativeDocumentMoniker": "EFCodeFirstStudent\\Program.cs",
+              "ToolTip": "C:\\Users\\sharm\\source\\repos\\EFCodeFirstStudent\\EFCodeFirstStudent\\Program.cs",
+              "RelativeToolTip": "EFCodeFirstStudent\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:26:47.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
